@@ -1,0 +1,10 @@
+C:\Users\szymo\Desktop\WindowsFormsApp1-master\Swiat Alkoholi\bin\Debug\Swiat Alkoholi.exe.config
+C:\Users\szymo\Desktop\WindowsFormsApp1-master\Swiat Alkoholi\bin\Debug\Swiat Alkoholi.exe
+C:\Users\szymo\Desktop\WindowsFormsApp1-master\Swiat Alkoholi\bin\Debug\Swiat Alkoholi.pdb
+C:\Users\szymo\Desktop\WindowsFormsApp1-master\Swiat Alkoholi\obj\Debug\Swiat Alkoholi.csprojAssemblyReference.cache
+C:\Users\szymo\Desktop\WindowsFormsApp1-master\Swiat Alkoholi\obj\Debug\Swiat_Alkoholi.Form1.resources
+C:\Users\szymo\Desktop\WindowsFormsApp1-master\Swiat Alkoholi\obj\Debug\Swiat_Alkoholi.Properties.Resources.resources
+C:\Users\szymo\Desktop\WindowsFormsApp1-master\Swiat Alkoholi\obj\Debug\Swiat Alkoholi.csproj.GenerateResource.cache
+C:\Users\szymo\Desktop\WindowsFormsApp1-master\Swiat Alkoholi\obj\Debug\Swiat Alkoholi.csproj.CoreCompileInputs.cache
+C:\Users\szymo\Desktop\WindowsFormsApp1-master\Swiat Alkoholi\obj\Debug\Swiat Alkoholi.exe
+C:\Users\szymo\Desktop\WindowsFormsApp1-master\Swiat Alkoholi\obj\Debug\Swiat Alkoholi.pdb
